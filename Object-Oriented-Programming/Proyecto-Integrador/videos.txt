@@ -1,0 +1,6 @@
+p,20191245,The Lion King,118,drama
+p,20191247,The Lion King 2,118,drama
+p,20191246,Transformes,118,accion
+c,20160150-S02E09,Chapter Nine: The Gate,62,accion,Stranger Things T2,9
+c,20160150-S02E10,Chapter Ten: The Golden,62,accion,Stranger Things T2,10
+c,20160150-S03E02,Chapter Two: The Bullet,62,drama,Stranger Things T3,2
